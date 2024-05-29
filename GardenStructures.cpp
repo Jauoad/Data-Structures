@@ -1,6 +1,7 @@
 // ﷽
 // GardenStructures.cpp
-// Copyright (c) 2024 Jaouad
+// Source :  https://github.com/Jauoad
+// Copyright (c) 2024 Jauoad
 
 #include <iostream>
 #include <vector>
