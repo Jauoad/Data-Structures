@@ -1,5 +1,5 @@
 // ﷽
-// GardenStructures.cpp
+// GardenMatrix.cpp
 // Source :  https://github.com/Jauoad
 // Copyright (c) 2024 Jauoad
 
