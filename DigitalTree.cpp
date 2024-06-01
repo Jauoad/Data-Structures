@@ -95,7 +95,7 @@ int main() {
 
 /* Visual Schema:
 
-Structure of the Digital tree after inserting numbers:
+Structure of the Digital / Prefix tree after inserting numbers:
 
         root
         / | \
