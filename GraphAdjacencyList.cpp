@@ -1,5 +1,5 @@
 // ﷽
-// Graph.cpp (filename)
+// GraphAdjacencyList.cpp (filename)
 // Source: https://github.com/Jauoad
 // Copyright (c) 2024 Jauoad
 
